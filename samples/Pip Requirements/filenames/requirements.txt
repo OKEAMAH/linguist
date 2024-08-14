@@ -7,7 +7,7 @@ pytorch-lightning==1.6.0rc0
 torchmetrics==0.6
 omegaconf==2.1.1
 test-tube>=0.7.5
-streamlit>=1.30.0
+streamlit>=1.37.0
 einops==0.3.0
 transformers==4.38.0
 webdataset==0.2.5
